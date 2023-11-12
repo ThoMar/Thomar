@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thomar
+- 👋 Hi, I’m @ThoMar
 - 👀 I’m interested in programming AI ML MV ... everything intresting.
 - 🌱 I’m currently learning that i must learn more.
 - 💞️ I’m looking to collaborate on all topics. 
